@@ -1,4 +1,17 @@
-/*  your css code here. If applicable */
+body{
+	background-color:#cbd6cb;
+}
 .imageContainer img{
 	width:520px;
+}
+.text p{
+width:600px;
+text-align:center;
+}
+.text2 p{
+	width:580px;
+	text-align:center
+}
+h1{
+	text-align:center;
 }
